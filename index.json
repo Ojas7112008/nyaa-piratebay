@@ -70,7 +70,7 @@
     "US"
   ],
   "description": "Fetches torrents from The Pirate Bay via Torrents-API",
-  "icon": "https://upload.wikimedia.org/wikipedia/en/3/36/The_Pirate_Bay_logo.svg",
+  "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f4/The_Pirate_Bay_logo_%28brown%29.svg",
   "update": "gh:BeastBBoy/extensions",
   "code": "gh:BeastBBoy/extensions/piratebay"
 }
